@@ -1,0 +1,8 @@
+div { font-size: 100px;}
+
+h1 { font-size: 2vh;}
+
+div { 
+    background-image: url(imagenes.jpg);
+     background-repeat: no-repeat; background-size:cover;
+    height: 100vh; }
